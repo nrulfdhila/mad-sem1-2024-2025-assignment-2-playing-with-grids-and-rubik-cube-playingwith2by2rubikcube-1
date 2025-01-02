@@ -1,9 +1,9 @@
 # Assignment 2: Play with a 2x2 Rubik Cube
 by 
 
-**NAME**:
+**NAME**: Nurul Fadhilah binti Ahmad
 
-**Matric ID**
+**Matric ID**: 2114152
 
 ## Objective
 
